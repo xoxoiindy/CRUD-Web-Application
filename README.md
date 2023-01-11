@@ -25,7 +25,7 @@ This application allows you to create, delete or make changes on each category.
 ![image](https://user-images.githubusercontent.com/64226925/211897891-c292b7fa-63fa-4f94-a8bd-52189d5b36b6.png)
 ### Creating a category with name & display number
 ![image](https://user-images.githubusercontent.com/64226925/211898372-9c97dfdf-551b-4d84-a14d-8153701ea547.png)
-### Deleating a category page
+### Deleting a category page
 ![image](https://user-images.githubusercontent.com/64226925/211899661-c4edf66d-ae23-4463-8235-cb08ba648422.png)
 
 
