@@ -14,8 +14,8 @@ namespace CRUD_Web_Application.Models
         [DisplayName("Title")]
         public string Name { get; set; }
 
-        [DisplayName("Description")]
-        [Range(5,100, ErrorMessage="Description must have atleast 5 characters and 100 max characters.")]
+        [DisplayName("Display Order")]
+        [Range(1,100, ErrorMessage="Description must be atleast 1 to 100.")]
         public int DisplayOrder { get; set; }
 
         public DateTime CreateDateTime { get; set; } = DateTime.Now;
